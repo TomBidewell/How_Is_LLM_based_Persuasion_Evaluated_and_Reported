@@ -1,6 +1,6 @@
-# How Is LLM-Based Persuasion Evaluated and Reported?<br>A Systematic Review of LLM-Based Persuasion Evaluation in NLP
+<h1 align="center">How Is LLM-Based Persuasion Evaluated and Reported?<br>A Systematic Review of LLM-Based Persuasion Evaluation in NLP</h1>
 
-This repository contains the data analysed in our paper, *How Is LLM-Based Persuasion Evaluated and Reported? A Systematic Review of LLM-Based Persuasion Evaluation in NLP* (link to paper).
+This repository contains the data analysed in our paper: *How Is LLM-Based Persuasion Evaluated and Reported? A Systematic Review of LLM-Based Persuasion Evaluation in NLP* (link to paper).
 
 ## Data
 
